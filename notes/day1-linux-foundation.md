@@ -1,19 +1,48 @@
 # Day 1 - Linux Foundation
 
-## Learned
+## 📅 Date
 
-- Linux file system
-- Basic terminal commands
-- Git initialization
+30 June 2026
 
-## Commands
+## 🎯 Objective
 
-- pwd
-- ls
-- cd
-- mkdir
-- tree
+Mempelajari dasar sistem operasi Linux dan penggunaan terminal sebagai fondasi untuk belajar cybersecurity.
 
-## Reflection
+---
 
-Linux hanya memiliki satu root directory yaitu `/`.
+## 📚 Materi yang Dipelajari
+
+- Struktur direktori Linux
+- Navigasi menggunakan terminal
+- Perintah dasar Linux
+- Konsep Root Directory (`/`)
+- Membuat struktur project CyberSec Bootcamp
+
+---
+
+## 🛠 Command yang Dipraktikkan
+
+```bash
+pwd
+ls
+ls -la
+cd
+mkdir
+tree
+```
+
+---
+
+## 🧠 Hal yang Dipelajari
+
+- Linux memiliki satu root directory (`/`).
+- Semua file dan folder berada di bawah root directory.
+- Terminal menjadi alat utama untuk mengelola sistem Linux.
+- Struktur folder yang rapi mempermudah pengelolaan project.
+
+---
+
+## 💡 Reflection
+
+Hari pertama menjadi fondasi untuk memahami Linux sebelum mempelajari networking dan cybersecurity.
+

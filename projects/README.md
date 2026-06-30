@@ -1,11 +1,9 @@
 # Projects
 
-Repository ini hanya berisi daftar project yang dikerjakan selama bootcamp.
+Daftar project yang dibuat selama bootcamp.
 
-## Project List
-
-- [ ] Network Packet Journey
-- [ ] Wireshark Analysis
-- [ ] Bash Monitoring Script
-- [ ] Python Port Scanner
-- [ ] Web Security Lab
+| Project | Repository | Status |
+|----------|------------|--------|
+| Network Packet Journey | (akan dibuat) | ⏳ |
+| Wireshark Analysis | (akan dibuat) | ⏳ |
+| Bash Monitoring Script | (akan dibuat) | ⏳ |
