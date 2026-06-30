@@ -1,41 +1,11 @@
-# Network Packet Journey
+# Projects
 
-## Objective
+Repository ini hanya berisi daftar project yang dikerjakan selama bootcamp.
 
-Understand how packets travel from browser to web server.
+## Project List
 
-## Flow
-
-Browser
-
-↓
-
-DNS
-
-↓
-
-TCP
-
-↓
-
-TLS
-
-↓
-
-HTTP
-
-↓
-
-Response
-
-## Tools
-
-- nslookup
-- ping
-- traceroute
-- curl
-- Wireshark
-
-## Result
-
-(To be filled after lab)
+- [ ] Network Packet Journey
+- [ ] Wireshark Analysis
+- [ ] Bash Monitoring Script
+- [ ] Python Port Scanner
+- [ ] Web Security Lab

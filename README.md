@@ -6,31 +6,30 @@ Unggul Amirullah
 
 ## 🎯 Goal
 
-Become a Junior Cybersecurity Engineer
+Become a Junior Cybersecurity Engineer.
 
-## 📚 Learning Roadmap
+## 📅 Progress
 
-- [x] Day 1 - Linux Foundation
-- [ ] Day 2 - Networking
-- [ ] Day 3 - Git & GitHub
-- [ ] Day 4 - Wireshark
-- [ ] Day 5 - Bash Scripting
+| Day | Topic | Status |
+|-----|-------|--------|
+| Day 1 | Linux Foundation | ✅ |
+| Day 2 | Git & GitHub | ✅ |
+| Day 3 | How Internet Works | ✅ |
+| Day 4 | Wireshark | ⏳ |
 
-## 🛠 Tools
+## 📂 Structure
 
+- labs
+- notes
+- screenshots
+- resources
+- scripts
+
+## 💻 Environment
+
+- Windows 11
 - WSL Ubuntu
 - Git
+- GitHub
 - VS Code
 - Wireshark
-
-## 📂 Repository Structure
-
-labs/
-
-notes/
-
-scripts/
-
-projects/
-
-screenshots/
