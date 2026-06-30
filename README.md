@@ -1,13 +1,36 @@
-# CyberSec Bootcamp
+# 🛡 CyberSec Bootcamp
 
-## Student
+## 👨 Student
 
 Unggul Amirullah
 
-## Goal
+## 🎯 Goal
 
-Become Junior Cybersecurity Engineer
+Become a Junior Cybersecurity Engineer
 
-## Progress
+## 📚 Learning Roadmap
 
-Day 1 - Linux Foundation
+- [x] Day 1 - Linux Foundation
+- [ ] Day 2 - Networking
+- [ ] Day 3 - Git & GitHub
+- [ ] Day 4 - Wireshark
+- [ ] Day 5 - Bash Scripting
+
+## 🛠 Tools
+
+- WSL Ubuntu
+- Git
+- VS Code
+- Wireshark
+
+## 📂 Repository Structure
+
+labs/
+
+notes/
+
+scripts/
+
+projects/
+
+screenshots/
