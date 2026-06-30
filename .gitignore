@@ -1,12 +1,16 @@
-# VS Code
-.vscode/
-
 # Python
 __pycache__/
 *.pyc
 
+# VS Code
+.vscode/
+
 # Linux
 *.swp
+*~
 
-# macOS
-.DS_Store
+# Wireshark
+*.pcapng
+
+# Environment
+.env
